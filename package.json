@@ -2,7 +2,6 @@
   "name": "infinite-scroll",
   "version": "1.0.0",
   "description": "(Orkes) This is an interview task on infinite scroll for api data",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
