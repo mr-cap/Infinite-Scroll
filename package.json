@@ -1,0 +1,35 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "(Orkes) This is an interview task on infinite scroll for api data",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-cap/Infinite-Scroll.git"
+  },
+  "author": "Prabhakaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-cap/Infinite-Scroll/issues"
+  },
+  "homepage": "https://github.com/mr-cap/Infinite-Scroll#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.27",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@reduxjs/toolkit": "^1.9.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
+    "redux": "^4.2.1"
+  }
+}
